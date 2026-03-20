@@ -159,6 +159,7 @@ regular_files = [
     'folder-work-legacy.svg',
     'folder-work.svg',
     'go-home.svg',
+    'start-here-symbolic.svg',
     # DO NOT REMOVE: End of regular segment
 ]
 
